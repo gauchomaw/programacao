@@ -1,3 +1,3 @@
 # programacao
 
-Integrando Visual Studio Code com compilador gcc
+Visual Studio Code com compilador gcc
